@@ -775,11 +775,9 @@ ATOM    774  H52 THY B  12       2.703  -5.965  -6.921  1.00  0.00      DNAB H
 ATOM    775  H53 THY B  12       2.129  -6.530  -8.528  1.00  0.00      DNAB H  
 ATOM    776  H3T THY B  12      -5.906  -8.217  -9.328  1.00  0.00      DNAB H  
 ATOM    777 H2'' THY B  12      -1.981  -7.489  -9.191  1.00  0.00      DNAB H  
-ATOM    778 H5'' THY B  12      -4.372 -10.644  -7.363  1.00  0.00      DNAB H  
-TER   
+ATOM    778 H5'' THY B  12      -4.372 -10.644  -7.363  1.00  0.00      DNAB H    
 ATOM    779  POT POT P   1      -0.003  -0.547  -1.871  1.00  0.00      HETA P  
 ATOM    780  POT POT P   2      -0.016  -0.648   1.824  1.00  0.00      HETA P
-TER
 ATOM    781  H   DUM D   1       0.000   0.000   3.750  1.00  6.80      DUM  H  
 ATOM    782  H   DUM D   1       0.160  -0.160   4.000  1.00  8.74      DUM  H  
 ATOM    783  H   DUM D   2       0.320  -0.160   4.000  1.00  9.81      DUM  H  
